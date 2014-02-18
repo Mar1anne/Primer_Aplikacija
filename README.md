@@ -1,5 +1,9 @@
-# Ruby On Rails primer aplikacija
+# Ruby On Rails
+<small> - primer aplikacija </small>
 
 Seminarska po predmetot Programski Praktikum
-Mariana Ristovska 
-342/2010
+<br/>
+<b>Mariana Ristovska 
+<br/>
+<br/>
+342/2010</b>
